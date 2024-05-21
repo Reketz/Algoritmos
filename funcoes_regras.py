@@ -1,0 +1,8 @@
+# PARAMETROS SEGUEM UMA HIERARQUIA
+
+# PARAMETRO PREDETERMINADOS
+# PARAMETROS ADICIONAIS
+# PARAMETROS DE DADOS (DICIONARIOS)
+
+def registrarDonoPet(nome, cpf, *adicionais, **dadosPets):
+    print(nome, cpf)
