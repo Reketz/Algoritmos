@@ -1,0 +1,4 @@
+Nome do cliente: Joao
+	O filme Rambo foi assistido 1 vezes
+	O filme Filme do Pelé foi assistido 1 vezes
+	O filme Rio 2 foi assistido 2 vezes
